@@ -1,0 +1,1 @@
+CREATE TABLE pessoas (nome, idade, sexo, peso, altura, nacionalidade) VARCHAR ;
